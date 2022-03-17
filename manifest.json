@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Yoga Sutra Essentials",
+  "version": "1.0",
+  "description": "Filled with Yoga essentials and infinite wisdoms. ",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Yoga Sutra Essentials"
+  },
+  "icons": {
+    "16": "YSE_icon_16.png",
+    "48": "YSE_icon_48.png",
+    "128": "YSE_icon_128.png"
+  }
+}
